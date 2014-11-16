@@ -4,9 +4,8 @@ title: 8 razones por las que usar Archlinux
 published: true
 ---
 
-<center>
-![titulo]({{ site.baseurl }}/images/Arch-Linux.png)
-</center>
+![titulo ]({{ site.baseurl }}/images/Arch-Linux.png)
+
 
 <ol>
 	<li><strong>La filosofía de Arch.</strong>
