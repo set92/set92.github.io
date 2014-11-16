@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 8 razones por las que usar Archlinux
+published: true
 ---
-<div><strong><a href="http://static.archlinux.org/main-20101104/media/logos/archlinux-logo-dark-90dpi.png"><img class="aligncenter" title="archlinux" src="http://static.archlinux.org/main-20101104/media/logos/archlinux-logo-dark-90dpi.png" alt="" width="600" height="199" /></a></strong></div>
-<span class="Apple-style-span" style="font-size:14px;line-height:23px;"><strong>
-</strong></span>
+
+
 <ol>
 	<li><strong>La filosofía de Arch.</strong>
 Su filosofia denominada KISS(Keep It Simple, Stupid!), hace referencia a eso, a un diseño basico y minimalista, lo que muchas veces echara hacia atras a algunos usuarios, pero en beneficio, podras usar tu sistema para lo que desees, y saber lo que contiene. Por cierto se me olvidaba, por si alguien no entiende la traduccion de KISS quiere decir "Mantenlo simple, estupido!"</li>
@@ -14,7 +14,5 @@ Su filosofia denominada KISS(Keep It Simple, Stupid!), hace referencia a eso, a 
 	<li><strong>Gran variedad de drivers disponibles</strong> en los repositorios oficiales, incluidos propietarios. Prácticamente todo el hardware funcionará perfectamente en Archlinux.</li>
 	<li><strong>No es necesaria la activación del software. </strong>Al contrario que en Windows aqui todo sera libre y no tendras que preocuparte de los cracks, ni medicinas, unicamente pacman -S [paquete a instalar] y listo.</li>
 	<li><strong>Archlinux funciona en cualquier ordenador.</strong> Mientras tu ordenador sea un Pentium podras instalar Arch, seguramente algun modelo anterior tambien funcionaria pero es por poneros un ejemplo. Y esto pasa por lo mismo que decia antes, de que solo trae una consola instalada, pudiendo si se quiere trabajar unicamente sobre la consola y asi no consumir casi recursos</li>
-	<li><strong>Todos los dias aprenderas algo. </strong>El primer dia de instalacion de Arch es un curso intensivo de linux y mas si nunca has tocado otra distribucion, pensaras "¿En que me estoy metiendo..?", y todos los dias te tocara aprender algo nuevo, tendras que aprender los comandos basicos de la consola(en esto ayuda bastante los cheat-cube, ya los veremos en otro post), tendras que modificar los ficheros de configuraciones, con lo que tu curva de aprendizaje se vera aumentada exponencialmente, si por el contrario no te gusta aprender yo te recomendaria que pasaras de las distros de linux pues en todas te surge algun problema por lo menos cada semana y tienes que tener las ganas de aprender como reparar esos fallos.</li>
+	<li><strong>Todos los dias aprenderas algo nuevo. </strong>El primer dia de instalacion de Arch es un curso intensivo de linux y mas si nunca has tocado otra distribucion, pensaras "¿En que me estoy metiendo..?", y todos los dias te tocara aprender algo nuevo, tendras que aprender los comandos basicos de la consola(en esto ayuda bastante los cheat-cube, ya los veremos en otro post), tendras que modificar los ficheros de configuraciones, con lo que tu curva de aprendizaje se vera aumentada exponencialmente, si por el contrario no te gusta aprender yo te recomendaria que pasaras de las distros de linux pues en todas te surge algun problema por lo menos cada semana y tienes que tener las ganas de aprender como reparar esos fallos.</li>
 </ol>
-<div><span class="Apple-style-span" style="font-size:14px;line-height:23px;">Y bueno estan son algunas de las razones, pero no quiere decir que no haya mas o depende de como uses tu el ordenador no puedas ver mas razones. Yo usare este blog principalmente para poner lo que voy aprendiendo de Arch, y para que la gente encuentre una forma rapida de empezar con esta gran distribucion. Tambien queria comentaros que mucha gente empieza en el mundo de Linux por Ubuntu, luego pasa a Debian y termina con Arch, habiendo tenido un año o dos cada distro, pero no pasa nada si das el salto a Arch, yo por ejemplo, estuve con Ubuntu unos 3 o 4 meses, en los cuales tuve una semana Debian, y me pase a Arch hace poco, si que me costo mas aprender todos los comandos, y no entendia la mayoria de las cosas, no habia trabajo nunca sobre consola, siempre las evitaba, pero segun le vas perdiendo el miedo, te acostumbras y ves que es una gran distribucion.</span></div>
-<div><span class="Apple-style-span" style="font-size:14px;line-height:23px;">Si teneis algun tipo de problema o algo no dudeis en comentarmela.</span></div>
