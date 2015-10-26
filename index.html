@@ -27,22 +27,22 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <div>
+        
+<div class="posts">
   {% for post in site.posts %}
-         
+    <article class="post">    
       
-      <h1>
-<a id="-posttitle-" class="anchor" href="#-posttitle-" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="%7B%7B%20site.baseurl%20%7D%7D%7B%7B%20post.url%20%7D%7D">{{ post.title }}</a>
-</h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div>
+      <div class="entry">
         {{ post.content | truncatewords:40}}
       </div>
       
-      <a href="%7B%7B%20site.baseurl%20%7D%7D%7B%7B%20post.url%20%7D%7D">Read More</a>
-     
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endfor %}
-</div>
+</div> 
+
       </section>
     </div>
 
